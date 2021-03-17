@@ -1,3 +1,13 @@
 body{
     font-family: 'Roboto', sans-serif;
 }
+
+img{
+    margin: 1.5em auto;
+    max-width: 98%;
+    border: 1.25px solid #13abf2;
+    border-radius: 3px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
